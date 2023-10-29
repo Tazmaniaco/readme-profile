@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Oi, eu sou o
-                <a style="color: #5DC472; cursor: pointer" href="#">Davi </a>
+                <a href="#">Davi </a>
                 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&multiline=true&random=false&width=200&height=21&lines=-+Desenvolvedor+Web" alt="Typing SVG" /></a>
         </samp>
 </h3>
